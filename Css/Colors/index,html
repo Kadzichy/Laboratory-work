@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <em><a href="about.html">About</a></em>
+    <h1 id="head" >Hello</h1>
+    <h1 id="Title">Title heading</h1>
+    <h2>Hello</h2>
+    <h2>Hello</h2>
+   <strong> 
+    <p id="text1">Lorem ipsum dolor sit amet.</p> 
+</strong>
+   <strong> 
+    <p id="text2">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam, pariatur.</p> 
+</strong>
+</body>
+</html>
