@@ -1,0 +1,4 @@
+a{color: black;font-size: 4rem;}
+#head{color: rgba(255, 0, 0);background: black;}
+#Title{color: rgb(0, 255, 0);background-color:rgb(240, 149, 149);}
+body{background-color: rgba(0, 0, 0, 0.5);}
