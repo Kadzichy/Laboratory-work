@@ -1,0 +1,48 @@
+h1{background: red;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 25px;
+padding-right: 10px;
+margin-bottom: 0;
+border: 5px solid grey;
+}
+p{background: blue;
+padding: 20px;
+margin-right: 1000px;
+margin-top: 0;
+}
+#a{background: green;
+padding: 20px;
+margin: 200px;
+border-style: solid;
+border-width: 10px;
+border-color: grey;
+border-radius: 50px;
+}
+.buttons{
+margin: 3rem;
+}
+.one {
+    
+    background: green;
+    text-decoration: none;
+    padding: 1.2rem 1.5rem;
+    color: black;
+    text-transform: uppercase;
+    cursor: pointer;
+    border: 2px solid black;
+    border-radius: 50rem;
+    margin: 20px;
+    }
+    #two{
+        
+        background: green;
+        text-decoration: none;
+        padding: 1.2rem 1.5rem;
+        color: black;
+        text-transform: uppercase;
+        cursor: pointer;
+outline: 0.2rem solid black;    
+outline-offset: -10px;
+outline-offset: 10px;  
+    }
