@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div class="block"> Lorem ipsum dolor sit amet. </div>
+<h1 class="block">Lorem ipsum dolor sit amet.</h1>
+<p class="block">Lorem ipsum dolor sit amet.</p>
+<span class="inline">Lorem ipsum dolor sit amet.</span>
+<a href="#" class="inline" >Lorem, ipsum.</a>
+<img src="1649133264_9-vsegda-pomnim-com-p-priroda-krasivo-foto-10.jpeg" width="60" alt="">
+</body>
+</html>
