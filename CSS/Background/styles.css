@@ -3,3 +3,29 @@
 a{color: black;font-size: 4rem;}
 #text1{color: blue;font-size: 1.5rem;}
 #text2{color: burlywood;font-size:1.5rem;}
+div{
+
+    height: 400px;
+    color: darkred;
+}
+.big1-img{
+    background: url("./big.jpeg");
+    background-repeat: round;
+    background-size: cover;
+}
+.small-img {
+    border: 2px solid black;
+    background: url("./small.jpeg");
+background-repeat: repeat; 
+background-repeat: no-repeat;
+background-repeat: repeat-x; */
+background-repeat: repeat-y; */
+background-repeat: space; */
+background-repeat: round; */
+background-position: 100% 100%;
+}
+.big2-img {
+    background: url("./big.jpeg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
