@@ -1,0 +1,25 @@
+body{
+display: flex;
+
+}
+div{
+width: 150px;
+height: 150px;
+margin: 5px;
+}
+.one{
+    background: linear-gradient(red,green);
+}
+.two{
+    background: linear-gradient(yellow,blue);
+}
+.three{
+    background: linear-gradient(150deg,yellow,blue);
+}
+
+.four{
+    background: linear-gradient(to top right, yellow,blue);
+}
+.five{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.9));
+}
