@@ -8,7 +8,7 @@ div{
     height: 400px;
     color: darkred;
 }
-.big1-img{
+.big-img{
     background: url("./big.jpeg");
     background-repeat: round;
     background-size: cover;
@@ -18,13 +18,13 @@ div{
     background: url("./small.jpeg");
 background-repeat: repeat; 
 background-repeat: no-repeat;
-background-repeat: repeat-x; */
-background-repeat: repeat-y; */
-background-repeat: space; */
-background-repeat: round; */
+background-repeat: repeat-x; 
+background-repeat: repeat-y; 
+background-repeat: space; 
+background-repeat: round; 
 background-position: 100% 100%;
 }
-.big2-img {
+.folder-img {
     background: url("./big.jpeg");
     background-size: contain;
     background-repeat: no-repeat;
