@@ -1,0 +1,19 @@
+div{
+    border: 3px solid red;
+    background: yellow;
+    margin-top: 40px;
+    position: static;
+}
+.one{
+    background: blue;
+    
+}
+.two{
+    background: green;
+}
+.special{
+    background: lightcoral;
+    font-size: 20px;
+    position: absolute;
+    right: 50%;
+}
