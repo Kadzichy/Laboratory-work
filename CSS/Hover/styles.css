@@ -1,0 +1,25 @@
+a:link{
+    color: aquamarine;
+}
+a:visited{
+    color: red;
+}
+a:hover{
+    color: blue;
+}
+a:active{
+    color: green;
+}
+
+:root{
+   font-size: 200%;
+}
+h1{
+    font-size: 100px;
+}
+.absolute{
+    font-size: 24px;
+}
+.responsive{
+    font-size: 0.5rem;
+}
