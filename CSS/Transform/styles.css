@@ -1,0 +1,26 @@
+div{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 20px;
+}
+.one{
+    background: black;
+    transform: translateX(50%);
+}
+.two{
+    background: red;
+    transform: scale(0.5,0.5);
+}
+.three{
+    background: blue;
+    transform: rotateZ(135deg);
+}
+.four{
+    background: yellow;
+    transform: rotateY(60deg);
+}
+.five{
+    background: orange;
+    transform: skew(40deg, -20deg);
+}
